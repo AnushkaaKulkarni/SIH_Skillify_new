@@ -6,7 +6,7 @@ SkillifyAI is an AI-assisted competency and assessment platform for official-sta
 
 Complete project documentation is available in [docs/PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md).
 
-## Quick Start
+## Quick Start 
 
 Requirements:
 
